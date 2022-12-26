@@ -7,4 +7,4 @@ We practiced creating a repository in Github, adding a .gitignore file, and how 
 
 This is my very first repository, woohoo!
 
-
+![Snoopy_teacher_image](images.jpg)
